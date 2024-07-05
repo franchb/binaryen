@@ -390,3 +390,4 @@ jobs:
       run: |
         python check.py --binaryen-bin=out/bin lit
         python check.py --binaryen-bin=out/bin gtest
+
